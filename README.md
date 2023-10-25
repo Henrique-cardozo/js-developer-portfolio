@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu portfólio online! Este projeto foi desenvolvido como parte da Formação JavaScript Developer na DIO. Aqui, você pode aprender mais sobre mim, minhas habilidades e projetos anteriores.
 
-![Imagem do Projeto](./assets/img/sua_imagem.jpg)
+![Imagem do Projeto](https://raw.githubusercontent.com/Henrique-cardozo/js-developer-portfolio/main/assets/img/henrique.araujo.jpg)
 
 ## Visão Geral
 
